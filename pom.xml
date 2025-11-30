@@ -12,7 +12,9 @@
 
     <modules>
         <module>payments-service</module>
+        <module>notification-service</module>
     </modules>
+
 
     <properties>
         <java.version>17</java.version>
